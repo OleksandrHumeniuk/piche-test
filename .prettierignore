@@ -1,0 +1,14 @@
+# Dependencies
+node_modules
+
+# Production
+dist
+dist-ssr
+build
+
+# Config files
+.eslintrc.js
+.prettierrc.js
+.lintstagedrc.js
+.releaserc.js
+playwright.config.js
